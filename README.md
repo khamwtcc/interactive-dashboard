@@ -6,3 +6,7 @@ This project is a web-based dashboard built for WEB-115 to demonstrate interacti
 - [ ] Add a metric conversion tool.
 - [ ] Integrate a task list **with** array storage.
 - [ ] Add JavaScript logic **for** a live clock.
+- [X] Add a weekly task goal calculator.
+
+## Weekly Task Goals
+The Weekly Task Goals feature calculates a user's total weekly task goal based on their daily task goal and any additional weekly bonus tasks. It multiplies the user's daily goal by five to calculate the weekly goal, then adds the bonus tasks to determine the user's total weekly task target.
