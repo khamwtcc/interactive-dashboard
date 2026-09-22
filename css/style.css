@@ -1,4 +1,54 @@
 body {
-    background-color: lightgreen;
-    font-family: Georgia, serif;
+    background-color: #121826;
+    font-family: "Trebuchet MS", sans-serif;
+    color: #F1F5F9
+}
+
+#metric-converter {
+    background-color: #1B2435;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#metric-converter form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#metric-converter input,
+#metric-converter select,
+#metric-converter button {
+    padding: 8px;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#metric-converter input,
+#metric-converter select {
+    background-color: #F1F5F9;
+    color: #121826;
+    border: 1px solid #748FFC;
+}
+
+#metric-converter button {
+    background-color: #38D9A9;
+    color: #121826;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#metric-converter button:hover {
+    background-color: #748FFC;
+    color: #F1F5F9;
+}
+
+#conversion-result {
+    margin-top: 20px;
+    color: #38D9A9;
+    font-size: 18px;
+    font-weight: bold;
 }
