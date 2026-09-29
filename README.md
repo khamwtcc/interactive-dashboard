@@ -11,6 +11,9 @@ This project is a web-based dashboard built for WEB-115 to demonstrate interacti
 ## Weekly Task Goals
 The Weekly Task Goals feature calculates a user's total weekly task goal based on their daily task goal and any additional weekly bonus tasks. It multiplies the user's daily goal by five to calculate the weekly goal, then adds the bonus tasks to determine the user's total weekly task target.
 
+## Magic Eight Ball
+The Magic Eight Ball is an interactive game that allows users to enter a yes/no question and click the Eight Ball to receive a randomly selected answer. Users can reset the game to ask another question.
+
 ## Imperial/Metric Converter
 The Imperial/Metric Converter allows users to convert values between Imperial and Metric units. The application supports conversions involving inches, feet, yards, and miles, as well as centimeters, meters, and kilometers.
 
