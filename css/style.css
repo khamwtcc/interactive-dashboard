@@ -1,7 +1,9 @@
 body {
     background-color: #121826;
     font-family: "Trebuchet MS", sans-serif;
-    color: #F1F5F9
+    color: #F1F5F9;
+    text-align: center;
+    padding: 20px;
 }
 
 #metric-converter {
@@ -51,4 +53,22 @@ body {
     color: #38D9A9;
     font-size: 18px;
     font-weight: bold;
+}
+
+#weekly-tasks {
+    text-align: left;
+}
+
+#task-list h3 {
+    text-align: center;
+}
+
+#question {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 50px;
 }
