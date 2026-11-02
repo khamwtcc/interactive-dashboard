@@ -1,0 +1,24 @@
+#digital-clock {
+  background-color: #1e1e2f;
+  color: #e6e6e6;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#digital-clock h3 {
+  color: #8be9fd;
+  margin-top: 0;
+}
+
+#clock-face {
+  font-family: "Courier New", monospace;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #50fa7b;
+}
+
+#calendar-date {
+  font-size: 1.25rem;
+  color: #f1fa8c;
+}
